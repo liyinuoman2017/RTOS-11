@@ -174,9 +174,14 @@ void temp_humi_task(void *pvParameters)
 
 ![请添加图片描述](https://img-blog.csdnimg.cn/ebad4e09dafe41d29dbd7f6353577c72.gif)
 
-> <font color=red>**未完待续…
-实时操作系统系列将持续更新
-创作不易希望朋友们点赞，转发，评论，关注。
-您的点赞，转发，评论，关注将是我持续更新的动力
-作者：李巍
-Github：liyinuoman2017**
+> 未完待续…
+> 
+> 实时操作系统系列将持续更新
+> 
+> 创作不易希望朋友们点赞，转发，评论，关注。
+> 
+> 您的点赞，转发，评论，关注将是我持续更新的动力
+> 
+> 作者：李巍
+> 
+> Github：liyinuoman2017
